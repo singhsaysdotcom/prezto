@@ -16,6 +16,7 @@ unsetopt correct
 
 alias rf='rm -Rf'
 alias lh='ls -lAd .*'
+alias lhd='ls -ld .??*'
 alias sz='source ~/.zshrc'
 alias ez='vim ~/.zshrc'
 alias gst='git status -sb'
